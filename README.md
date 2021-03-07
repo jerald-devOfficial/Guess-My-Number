@@ -8,4 +8,4 @@ You guess a random number from 1 to 20 from the inout box, then click Guess butt
 
 Once the number matched the secret number, the background will turn green, and will also show the winning number.
 
-visit the link here for live demo: 
+visit the link here for live demo: https://jerald-devofficial.github.io/Guess-My-Number/
